@@ -2,4 +2,8 @@
 
 Halaman Login http://localhost/ssd_iswahyudi_cms/operator/
 
+<img src="https://raw.githubusercontent.com/iswahyud/ssd_iswahyudi_cms/main/screenshot_web_cms_login-page.png">
+
+List Faskes
+
 <img src="https://raw.githubusercontent.com/iswahyud/ssd_iswahyudi_cms/main/screenshot_web_cms_list-faskes-page.png">
