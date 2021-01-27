@@ -3,7 +3,9 @@
 
 Panduan Installasi:
 1. Extract file Zip kedalam folder xampp/htdocs/
-2. Jalankan via browser dengan alamat: http://localhost/ssd_iswahyudi_cms/operator/
+2. Buat database baru dengan nama <b>jsc_iswahyudi</b>.
+3. import file sql, lokasi file didalam folder database.
+4. Jalankan via browser dengan alamat: http://localhost/ssd_iswahyudi_cms/operator/
 
 Bahasa Pemrograman: 
 - PHP Codeigniter
