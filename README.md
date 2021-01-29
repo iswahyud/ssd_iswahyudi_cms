@@ -1,5 +1,5 @@
 # ssd_iswahyudi_cms
-
+Aplikasi Web CMS untuk mengelola fasilitas kesehatan (Faskes), aplikasi ini dibuat sebagai syarat Technical Hands-On Test pada kesempatan Recruitment Jakarta Smart City 2021.
 
 Panduan Installasi:
 1. Extract file Zip kedalam folder xampp/htdocs/
